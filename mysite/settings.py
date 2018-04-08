@@ -16,7 +16,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    # This tells the site to include the 'blog' app
+    # This tells the site to include the 'blog.html' app
     'blog',
 ]
 
